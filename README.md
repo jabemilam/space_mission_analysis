@@ -26,7 +26,7 @@ This analysis seems surface level to me without enough conclusions. I would like
 
 ## How to Utilize
 
-The notebook is already run, so if you wish to just view it, open it up. If you wish to run the code yourself or alter it to make more conclusions, simply clone the repository and attach the cvs to notebook to play with the data. I used Google Collab to write the notebook, but feel free to play with it in other programs.
+Some of the charts don't automatically render on github preview. This is probably due to the 5 second timeout it has. If you wish to run the code yourself or alter it to make more conclusions, simply clone the repository and attach the cvs to notebook to play with the data. I used Google Collab to write the notebook, but feel free to play with it in other programs. It views well in VS Code ass well
 
 If you come up with any changes you think are groundbreaking be sure to let me know!
 
